@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node ."
   },
+  "engine": {
+    "node":"16.17.0",
+    "npm":"8.15.0",
+  }
   "author": "NAZZA",
   "license": "ISC",
   "dependencies": {
